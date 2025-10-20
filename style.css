@@ -1,7 +1,8 @@
-body {
+body  {
   color:green;
   background:light-green;
   margin:Opx;
+  font-family: "BBH Sans Bogle", sans-serif;
 {
 
 header{
@@ -20,3 +21,4 @@ section{
 .chamada-text{
    margin-right:5%;
 }
+
